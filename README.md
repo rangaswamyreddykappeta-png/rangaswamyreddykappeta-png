@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ravi Reddy
+# 👋 Hi, I'm Rangaswamyreddy K
 
 🚀 Full Stack Developer passionate about building real-world scalable applications.
 
@@ -57,14 +57,14 @@ A full-stack platform where users can submit and track insurance claims with adm
 
 ## 📊 GitHub Stats
 
-![Ravi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rangaswamyreddykappeta-png&show_icons=true&theme=radical)
+![Ranga's GitHub stats](https://github-readme-stats.vercel.app/api?username=rangaswamyreddykappeta-png&show_icons=true&theme=radical)
 
 ---
 
 ## 🔗 Connect with Me
 
-- LinkedIn: (add your LinkedIn link here)
-- Email: (your email)
+- LinkedIn: (https://www.linkedin.com/in/rangaswamy-k-a42b0b272/)
+- Email: (rangaswamyreddykappeta@gmail.com)
 
 ---
 
