@@ -9,7 +9,7 @@
 - 💻 Experienced in building full-stack applications
 - ⚡ Strong in React, Next.js, Node.js, and NestJS
 - 🌐 Focused on real-world production projects
-- 🚀 Currently working on Insurance Claims Management Platform
+- 🚀 Currently working on Mutual of Omaha
 
 ---
 
