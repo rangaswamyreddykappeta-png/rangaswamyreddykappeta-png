@@ -1,71 +1,42 @@
-# 👋 Hi, I'm Rangaswamyreddy K
+👋 Hi, I'm Rangaswamyreddy K
+🚀 Senior Full Stack Engineer | 11+ Years Experience
 
-🚀 Full Stack Developer passionate about building real-world scalable applications.
+💡 Specialized in:
+- Scalable Microservices & Event-Driven Systems
+- AI/LLM Applications (OpenAI, Bedrock, Vertex AI)
+- Cloud Architecture (AWS | Azure | GCP)
 
----
+🧠 Tech Expertise
+Frontend: React, Next.js, Angular, Vue
+Backend: Node.js, NestJS, FastAPI, Spring Boot
+Cloud: AWS, GCP, Azure
+Data: PostgreSQL, MongoDB, Redis, Neo4j
+Messaging: Kafka, RabbitMQ, SQS
 
-## 🧑‍💻 About Me
+📊 Key Achievements
+- Built high-scale distributed systems
+- Reduced latency in real-time systems
+- Designed AI-powered workflows
 
-- 💻 Experienced in building full-stack applications
-- ⚡ Strong in React, Next.js, Node.js, and NestJS
-- 🌐 Focused on real-world production projects
-- 🚀 Currently working on Mutual of Omaha
+🚀 Featured Projects
+- Insurance Claims Portal
+- Microservices Event System
+- AI Chat Platform
 
----
+📫 Contact
+LinkedIn: https://www.linkedin.com/in/rangaswamy-k-a42b0b272/
+Email: rangaswamyreddykappeta@gmail.com
 
-## 🛠 Tech Stack
+## 📊 3D Contribution Graph
+![3D Graph](https://github-profile-3d-contrib.vercel.app/api?username=rangaswamyreddykappeta-png)
 
-### Frontend
-- React.js
-- Next.js
-- TypeScript
-- Tailwind CSS
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rangaswamyreddykappeta-png&show_icons=true&theme=radical)
 
-### Backend
-- Node.js
-- NestJS
-- Express.js
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rangaswamyreddykappeta-png&layout=compact&theme=radical)
 
-### Database
-- PostgreSQL
-- MongoDB
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&lines=Senior+Full+Stack+Engineer;Cloud+%7C+AI+%7C+Microservices;11%2B+Years+Experience)
 
-### Tools & Cloud
-- AWS
-- Vercel
-- Render
-- Docker
-
----
-
-## 🚀 Featured Project
-
-### 🏥 Insurance Claims Management Portal
-
-A full-stack platform where users can submit and track insurance claims with admin workflow.
-
-🔗 Live: https://insurance-portal-live.vercel.app  
-🔗 Backend: https://insurance-portal-backend.onrender.com  
-
-**Features:**
-- Authentication (JWT)
-- Role-based dashboards
-- Claim submission & tracking
-- Admin workflow system
-
----
-
-## 📊 GitHub Stats
-
-![Ranga's GitHub stats](https://github-readme-stats.vercel.app/api?username=rangaswamyreddykappeta-png&show_icons=true&theme=radical)
-
----
-
-## 🔗 Connect with Me
-
-- LinkedIn: (https://www.linkedin.com/in/rangaswamy-k-a42b0b272/)
-- Email: (rangaswamyreddykappeta@gmail.com)
-
----
-
-⭐ Always building. Always learning.
+### 🚀 Tech Stack
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,aws,azure,gcp,docker,kubernetes,postgres,mongodb,redis,kafka" />
+</p>
