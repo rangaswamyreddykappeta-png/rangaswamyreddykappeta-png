@@ -1,6 +1,7 @@
 👋 Hi, I'm Rangaswamyreddy K
 🚀 Senior Full Stack Engineer | 11+ Years Experience
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&lines=Senior+Full+Stack+Engineer;Cloud+%7C+AI+%7C+Microservices;11%2B+Years+Experience)
+
 💡 Specialized in:
 - Scalable Microservices & Event-Driven Systems
 - AI/LLM Applications (OpenAI, Bedrock, Vertex AI)
