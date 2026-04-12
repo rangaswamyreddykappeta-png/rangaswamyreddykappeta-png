@@ -97,7 +97,7 @@
 
 ## 🌐 Portfolio
 
-🚀 Coming Soon (3D Interactive Portfolio)
+🔗 [Live Portfolio](https://rangaswamy-portfolio.vercel.app)
 
 ---
 
